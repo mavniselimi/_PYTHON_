@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+{% block body %}
+
+<div  class="jumbotron text-center">
+        <h3>İlk denememize hoşgeldiniz</h3>
+        <p>In this blog we have codes written by developers</p>
+</div>
+<p>
+SuperAdmins:</p>
+<ol>
+{% for super in SuperAdmin1 %}
+    <li>{{super}}</li>
+{% endfor %}
+</ol>
+<p>
+    {% if request.user.is_authenticated %}
+        Hoşgeldiniz,{{request.user.username}}
+    {% else %}
+    {% endif %}
+</p>
+{% endblock body %}

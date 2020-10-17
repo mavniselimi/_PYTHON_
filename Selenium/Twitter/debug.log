@@ -1,0 +1,30 @@
+[0501/173805.767:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0501/173805.768:ERROR:exception_snapshot_win.cc(98)] thread ID 7836 not found in process
+[0501/173805.792:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0501/173805.792:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0501/173805.792:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0501/173805.792:ERROR:exception_snapshot_win.cc(98)] thread ID 8512 not found in process
+[0501/174012.383:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0501/174012.383:ERROR:exception_snapshot_win.cc(98)] thread ID 6216 not found in process
+[0501/174012.414:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0501/174012.414:ERROR:exception_snapshot_win.cc(98)] thread ID 10032 not found in process
+[0501/180727.719:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0501/180727.719:ERROR:exception_snapshot_win.cc(98)] thread ID 1792 not found in process
+[0501/180727.735:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0501/180727.735:ERROR:exception_snapshot_win.cc(98)] thread ID 7152 not found in process
+[0501/181715.926:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0501/181715.926:ERROR:exception_snapshot_win.cc(98)] thread ID 12788 not found in process
+[0501/181715.965:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0501/181715.965:ERROR:exception_snapshot_win.cc(98)] thread ID 11324 not found in process
+[0501/183639.265:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0501/183639.266:ERROR:exception_snapshot_win.cc(98)] thread ID 12036 not found in process
+[0501/183639.284:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0501/183639.288:ERROR:exception_snapshot_win.cc(98)] thread ID 1984 not found in process
+[0501/184100.228:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0501/184100.228:ERROR:exception_snapshot_win.cc(98)] thread ID 12156 not found in process
+[0501/184100.252:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0501/184100.252:ERROR:exception_snapshot_win.cc(98)] thread ID 15168 not found in process
+[0501/184101.300:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0501/184101.301:ERROR:exception_snapshot_win.cc(98)] thread ID 14944 not found in process
+[0501/184101.325:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0501/184101.325:ERROR:exception_snapshot_win.cc(98)] thread ID 13852 not found in process
