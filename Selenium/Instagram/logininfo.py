@@ -1,2 +1,2 @@
-username="mavniselimi"
-password="a.pisagor73"
+username="enter your username"
+password="enter your password"

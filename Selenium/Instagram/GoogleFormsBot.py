@@ -8,7 +8,7 @@ eposta=browser.find_element_by_xpath("""//*[@id="mG61Hd"]/div[2]/div/div[2]/div[
 eposta.send_keys("1love@mevall.com")
 kullaniciadi=browser.find_element_by_xpath("""//*[@id="mG61Hd"]/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[1]/input""")
 kullaniciadi.send_keys("Bip Bop I am a bot")
-eposta2=browser.find_element_by_xpath("""//*[@id="mG61Hd"]/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[1]/input""")
+eposta2=browser.find_element_by_xpath("""//*[@id="mG61Hd"]/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div[1]/div/div[1]/input""")
 eposta2.send_keys("1love@mevall.com")
 tel=browser.find_element_by_xpath("""//*[@id="mG61Hd"]/div[2]/div/div[2]/div[4]/div/div/div[2]/div/div[1]/div/div[1]/input""")
 tel.send_keys("202-555-0906")
