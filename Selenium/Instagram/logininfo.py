@@ -1,2 +1,2 @@
-username="enter your username"
-password="enter your password"
+username="write your username"
+password="write your password"
